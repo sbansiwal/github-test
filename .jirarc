@@ -1,0 +1,9 @@
+{
+	"projectName": "test-jira",
+	"host":"https://sunilbansiwal.atlassian.net/browse/TJ",
+	"protocol":"[default:http|https]",
+	"port": default:80,
+	"version": default:2,
+	"verbose": default:false,
+	"strictSSL": default:true
+}
